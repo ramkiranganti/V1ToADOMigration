@@ -1,0 +1,16 @@
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\V1ToADOMigration.Tests.dll
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\V1ToADOMigration.Tests.pdb
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\obj\Debug\V1ToADOMigration.Tests.csprojAssemblyReference.cache
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\obj\Debug\V1ToADOMigration.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\obj\Debug\V1ToADOMigration.Tests.csproj.CopyComplete
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\obj\Debug\V1ToADOMigration.Tests.dll
+C:\Users\ram.ganti\Documents\Visual Studio 2017\Projects\V1ToADOMigration\UnitTests\V1ToADOMigration.Tests\obj\Debug\V1ToADOMigration.Tests.pdb
